@@ -1,2 +1,0 @@
-# terraform-project
-terraform-project
